@@ -29,6 +29,9 @@
   "dependencies": {
     "@coral-xyz/anchor": "0.29.0",
     "@metaplex-foundation/mpl-token-metadata": "3.1.1",
+    "@metaplex-foundation/umi": "^1.0.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.0.0",
+    "@metaplex-foundation/umi-uploader-irys": "^1.0.0",
     "@solana/spl-token": "^0.4.9",
     "@solana/web3.js": "^1.87.6",
     "@types/node": "^20.9.3",
